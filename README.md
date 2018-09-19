@@ -1,6 +1,4 @@
 # Wage-Technologies
-A scheduling software that integrates supply and demand economics with wage management and shift selection.
-
 Wage Technologies enforces an iterative system with distributed programing. This repository establishes the backend of the interface that will be exercised by employers in setting up and then implementing their workplace in the application. The code requires input over a variety of fields, including but not limited to: style of workplace, number of and identifiers to employees, needed shifts and their difficulty, and more. 
 
 Code requirements are as follows:
